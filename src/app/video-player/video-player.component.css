@@ -1,0 +1,22 @@
+.video-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+video {
+  width: 50%;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.title-container {
+  text-align: center;
+}
+
+.video-details {
+  text-align: center;
+}
